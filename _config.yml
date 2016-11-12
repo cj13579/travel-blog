@@ -20,8 +20,6 @@ navigation:
    url: /new-zealand
  - title: South America
    url: /south-america
- - title: Pictures
-   url: /gallery
 
 social:
    github: cj13579
