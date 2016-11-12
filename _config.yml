@@ -1,7 +1,7 @@
 title: Chris and Katie's travels
 description: Some notes from our great, big adventure!
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://travels.cjblake.net
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
