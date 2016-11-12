@@ -1,0 +1,32 @@
+title: Chris and Katie's travels
+description: Some notes from our great, big adventure!
+
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Asia
+   url: /asia
+ - title: Australia
+   url: /australia
+ - title: New Zealand
+   url: /new-zealand
+ - title: South America
+   url: /south-america
+ - title: Pictures
+   url: /gallery
+
+social:
+   github: cj13579
+   twitter: cj13579
+   facebook: cj13579
+   email: cjb.blake@gmail.com
+
+# google_analytics: "UA-58263416-1"
